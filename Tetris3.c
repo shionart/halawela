@@ -13,7 +13,7 @@ int main ()
             Un = i*(i+1)/2;
             for (j = 1; j <=Un; j++)
             {
-                printf("*");
+                printf("v");
             }
             printf(" --%d\n", Un);
         }
